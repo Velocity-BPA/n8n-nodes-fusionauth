@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="fusionauth-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f58320;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f26522;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="45" fill="url(#fusionauth-gradient)"/>
+  <path d="M35 30 L65 30 L65 40 L45 40 L45 45 L60 45 L60 55 L45 55 L45 70 L35 70 Z" fill="white"/>
+  <circle cx="72" cy="65" r="8" fill="white"/>
+</svg>
